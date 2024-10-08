@@ -27,7 +27,7 @@ The `turtle` module comes pre-installed with Python, so no additional dependenci
 
 2. Run the game:
     ```bash
-    python snake_game.py
+    python3 snake_game.py
     ```
 
 ## Screenshots
